@@ -1,6 +1,6 @@
 [Google Scholar](https://scholar.google.fr/citations?user=yj1F8nUAAAAJ&hl=fr) | [Publons](https://publons.com/researcher/3161782/melanie-thierry/)
 
-<img src="CV.JPG" alt="CV" width="25"/>
+<img src="CV.JPG" alt="CV" width="100"/>
 
 # About
 
