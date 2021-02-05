@@ -1,2 +1,4 @@
 name: Melanie Thierry
 markdown: kramdown
+
+theme: jekyll-theme-cayman
