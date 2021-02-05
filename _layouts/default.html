@@ -1,38 +1,51 @@
 <!DOCTYPE html>
-	<head>
-		<title>Mélanie Thierry</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="assets/css/style.scss">
-	</head>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+	  <title>Mélanie Thierry</title>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
   <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <div id="header_wrap" class="outer">
-	    <header class="inner">
-		    <h1 id="project_title">Mélanie Thierry</h1>
-		    <h2 id="project_tagline">PhD student in community ecology</h2>
-
-         
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Mélanie Thierry</h1>
+      <h2 class="project-tagline">PhD student in community ecology</h2>
           <p style="text-align: left;">
   <a href="/">About</a> |
   <a href="/research">Research</a> |
   <a href="/publi">Publications</a> |
   <a href="/contact">Contact</a> |
 		    </p>
-	    </header>
-	</div>
+    </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <div id="footer_wrap" class="outer">
-	      <footer class="inner">
+      <footer class="site-footer">
 		      <ul>
 		      <li><a href="mailto:melanie.thierry34@gmail.com">e-mail</a></li>
 		      <li><a href="https://twitter.com/leptopilina">Twitter</a></li>
 		      <li><a href="https://www.researchgate.net/profile/Melanie_Thierry">Researchgate</a></li>
 		      </ul>
-	      </footer>
-	</div>
+      </footer>
     </main>
   </body>
 </html>
