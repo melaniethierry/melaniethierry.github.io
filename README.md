@@ -1,4 +1,6 @@
-![CV](CV.JPG)
+[Google Scholar](https://scholar.google.fr/citations?user=yj1F8nUAAAAJ&hl=fr) | [Publons](https://publons.com/researcher/3161782/melanie-thierry/)
+
+![CV](CV.JPG){width=50%}
 
 # About
 
