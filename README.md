@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Mélanie Thierry
 
-You can use the [editor on GitHub](https://github.com/Leptopilina/melaniethierry/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Google Scholar](https://scholar.google.fr/citations?user=yj1F8nUAAAAJ&hl=fr) | [Publons](https://publons.com/researcher/3161782/melanie-thierry/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![CV](CV.JPG)
 
-### Markdown
+## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a PhD Candidate in Ecology at the Biology Center CAS in [Jan Hrcek's lab](http://lab.hrcek.net/). 
+I am a community ecologist interested in understanding the processes behind the structure and dynamics of natural communities. I am particularly fascinated by the ecology of parasitoids. 
+In my PhD, I investigate the role of different types of species interaction and warming in shaping and stabilizing host-parasitoid networks. I use an empirical approach with laboratory experiments on a wild-caught tropical _Drosophila_-parasitoid community and a theoretical approach with mathematical models. 
+I am also involved in a global collaborative [LifeWebs project](www.lifewebs.net) aiming to investigate how interaction networks respond to latitude, elevation and human pressures as a data manager for host-parasitoid interaction data.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Research experience
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Publications
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Peer-reviewed publications
 
-### Jekyll Themes
++ [**Thierry M.**, Pardikes N., Lue C-H., Lewis O. & Hrcek, J. **2021** Experimental warming influences species abundances in a Drosophila host community through direct effects on species performance rather than altered competition and parasitism. Plos One](https://www.biorxiv.org/content/10.1101/2020.12.22.423937v1.abstract)
++ [**Thierry M.**, Hrcek J. & Lewis O. **2019** Mechanisms structuring host-parasitoid networks in a global warming context: a review. Ecological Entomology.](https://onlinelibrary.wiley.com/doi/full/10.1111/een.12750)
++ [Van Halder I., **Thierry M.**, ... & Benot, M. L. **2017** Trait‐driven responses of grassland butterflies to habitat quality and matrix composition in mosaic agricultural landscapes. Insect Conservation and Diversity, 10(1), 64-77.](https://onlinelibrary.wiley.com/doi/abs/10.1111/icad.12200)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leptopilina/melaniethierry/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Technical publications
 
-### Support or Contact
++ Mercier O., … **Thierry M.**, … Leriche, A. & Million A. **2017** Pilot study for the establishment of a monitoring protocol for the European Leaf-toed Gecko (Euleptes europaea) on the Port-Cros Island. Scientific Report Port-Cros national Park, 31: 189-211. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Grants
+
++ BC Grant programme 2021 Sub-program conference. Budget awarded: 41 105 CZK
++ Principal investigator on GAJU grant n°04-134/2019/P: Is the stabilizing effect of parasitoids on host-parasitoid networks reduced under global warming scenarios? Budget awarded: 129 000 CZK, 1-year-project for 2019.
+
+## Scientific oral presentations
+
++ 
+
+## Reviews
+
+[Publons](https://publons.com/researcher/3161782/melanie-thierry/)  
+
++ Scientific Reports (1)
++ Biotropica (2)
+
+
