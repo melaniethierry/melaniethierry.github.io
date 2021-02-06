@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+a {
+    text-decoration: none;
+    color: #707070;
+}
+a:hover {
+    text-decoration: bold;
+}
+h1 {
+    color: #358538;
+}
+footer {
+    text-align: center;
+}
