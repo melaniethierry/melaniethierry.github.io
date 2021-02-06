@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+header {
+  background-color: #189649;
+  opacity: 0.3;
+}
 body {
     text-align: justify;
 }
