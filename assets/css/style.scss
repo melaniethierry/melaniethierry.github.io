@@ -2,22 +2,39 @@
 ---
 
 @import "{{ site.theme }}";
+
 .page-header {
   background-image: url("img/BG.JPG");
   opacity: 0.9;
   }
+
 body {
     font-family: Helvetica, Arial, sans-serif;
     text-align: justify;
 }
+
 a {
     text-decoration: none;
     font-weight: bold;
     color: #707070;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 footer {
     text-align: center;
+}
+
+h1 {
+  font-size: 2.5em; /* 40px/16=2.5em */
+}
+
+h2 {
+  font-size: 1.875em; /* 30px/16=1.875em */
+ }
+
+p {
+  font-size: 0.875em; /* 14px/16=0.875em */
 }
