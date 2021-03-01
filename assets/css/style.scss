@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
--webkit-print-color-adjust: exact;
+html {
+  -webkit-print-color-adjust: exact;
+  }
 
 header {
   background-color: #1aa330;
