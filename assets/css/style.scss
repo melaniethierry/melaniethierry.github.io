@@ -1,8 +1,8 @@
 ---
 ---
 
-$header-bg-color: #1aa330;
-$header-bg-color-secondary: #2d862d;
+$header-bg-color: #2eb82e;
+$header-bg-color-secondary: #29a329;
 
 @import "{{ site.theme }}";
 
@@ -11,15 +11,9 @@ html {
   }
 
 .page-header {
-  background-color: #1aa330;
   opacity: 0.9;
   }
   
-header {
-  background-color: #1aa330;
-  opacity: 0.9;
-  }
-
 body {
     padding:0;
     margin:0;
